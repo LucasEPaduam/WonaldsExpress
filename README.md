@@ -6,8 +6,10 @@ Na aba visualizar vendas é apresentada um GridView contendo  todas as vendas re
 
 ## Tecnologias Utilizadas
 
-- [Visual Studio 2019](https://visualstudio.microsoft.com/pt-br/vs/)
-- [MySQL Workbench 8.0](https://www.mysql.com/products/workbench/)
+[<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />](https://visualstudio.microsoft.com/pt-br/vs/)
+[<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)
+[<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/)
+
 
 ### Tela do Menu
 
